@@ -1,15 +1,15 @@
 **Note: I'm not affilated with Discord and do not encourage using any of these hacks. Use everything here at your own risk. This is meant for educational purposes only and using these codeblocks may result in your account being disabled/terminated.**
 
-# Console Hacks
-<details>
-  <summary>Click here</summary>
-  
 ## How to use these Hacks
 It only works on Dekstop Versions (Windows, Linux, MacOS), not on Mobile
 1. Press CTRL + SHIFT + I to toggle Developer Tools (Discord is electronjs wich is basically google chrome)
 2. Click on "Console" if not already selected
 3. Paste the script in
 4. Press enter
+
+# Console Hacks
+<details>
+  <summary>Click here</summary>
   
 ## Logging in using Token
 <details>
