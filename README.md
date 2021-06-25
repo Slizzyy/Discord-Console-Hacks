@@ -22,6 +22,7 @@ function login(e){setInterval(()=>{document.body.appendChild(document.createElem
 and log in<br>
 Note that this doesn't work with Bot tokens, Bot tokens are different than user tokens, and Discord doesn't support this.<br>
 </details>
+<br>  
   
   
 ## Get all Badges
@@ -39,6 +40,7 @@ Object.values(webpackJsonp.push([[],{[''] :(_,e,r)=>{e.cache=r.c}},
 0).exports.default.getCurrentUser().public_flags=-1
 ```
 </details>
+<br>  
   
 ## Fake bot Badge
 <details>
