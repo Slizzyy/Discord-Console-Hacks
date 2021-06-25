@@ -64,7 +64,6 @@ and before the loading animation has finished, paste it again.
 window.location.reload();
 copy(document.body.appendChild(document.createElement `iframe`).contentWindow.window.localStorage.token);
 ```
-The token should be in your Clipboard.
 **Note:** If it's just "null" or "undefined" do the same thing again. Don't wait to lomg inbetween the two times
 </details>
 <br>
