@@ -38,4 +38,18 @@ Object.values(webpackJsonp.push([[],{[''] :(_,e,r)=>{e.cache=r.c}},
 [['']]]).cache).find(m=>m.exports&&m.exports.default&&m.exports.default.getCurrentUser!==void
 0).exports.default.getCurrentUser().public_flags=-1
 ```
-</details>  
+</details>
+  
+## Fake bot Badge
+<details>
+  <summary>This script gives you the bot badge</summary>
+
+Note that other users won't see the badge
+  
+```js  
+Object.values(webpackJsonp.push([[],{[''] :(_,e,r)=>{e.cache=r.c}},
+[['']]]).cache).find(m=>m.exports&&m.exports.default&&m.exports.default.getCurrentUser!==void
+0).exports.default.getCurrentUser().bot=true
+```  
+
+</details>    
