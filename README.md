@@ -12,6 +12,7 @@ It only works on Dekstop Versions (Windows, Linux, MacOS), not on Mobile
   <summary>Click here</summary>
   <br>
   <br>
+  <br>
   
 ## Logging in using Token
 <details>
