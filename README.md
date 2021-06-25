@@ -10,6 +10,8 @@ It only works on Dekstop Versions (Windows, Linux, MacOS), not on Mobile
 # Console Hacks
 <details>
   <summary>Click here</summary>
+  <br>
+  <br>
   
 ## Logging in using Token
 <details>
