@@ -22,3 +22,20 @@ function login(e){setInterval(()=>{document.body.appendChild(document.createElem
 and log in<br>
 Note that this doesn't work with Bot tokens, Bot tokens are different than user tokens, and Discord doesn't support this.<br>
 </details>
+  
+  
+## Get all Badges
+<details>
+  <summary>This script enables all Badges on your client.</summary>
+
+Note that other users won't see the badge<br>
+I found some similar proof-of-concept drafts of this randomly on the internet and based my work upon it, but I think [https://github.com/X-x-X-0/discord-js](https://github.com/X-x-X-0/discord-js) could be the original author<br>
+```js
+Object.values(webpackJsonp.push([[],{[''] :(_,e,r)=>{e.cache=r.c}},
+[['']]]).cache).find(m=>m.exports&&m.exports.default&&m.exports.default.getCurrentUser!==void
+0).exports.default.getCurrentUser().flags=-1
+Object.values(webpackJsonp.push([[],{[''] :(_,e,r)=>{e.cache=r.c}},
+[['']]]).cache).find(m=>m.exports&&m.exports.default&&m.exports.default.getCurrentUser!==void
+0).exports.default.getCurrentUser().public_flags=-1
+```
+</details>  
