@@ -56,7 +56,7 @@ Object.values(webpackJsonp.push([[],{[''] :(_,e,r)=>{e.cache=r.c}},
   
  ## Add guild features
 <details>
-  <summary>Enable server features... Replace 'FEATURE' with something like 'PARTNERED' or 'VERIFIED'</summary>
+  <summary>Enable server features... Replace 'SERVERID' with the ID of your server, and replace 'FEATURE' with something like 'PARTNERED' or 'VERIFIED'</summary>
 
 ```js
 Object.values(webpackJsonp.push([[],{['']:(_,e,r)=>{e.cache=r.c}},[['']]]).cache).find(m=>m.exports&&m.exports.default&&m.exports.default.getGuilds!==void 0).exports.default.getGuild('SERVERID').features.add('FEATURE')
