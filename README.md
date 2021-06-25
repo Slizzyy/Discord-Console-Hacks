@@ -54,6 +54,21 @@ Object.values(webpackJsonp.push([[],{[''] :(_,e,r)=>{e.cache=r.c}},
 
 </details>
   
+ ## Copy Your Token Into The Clipboard
+<details>
+<summary>Copies your Token into the Clipboard.</summary>
+
+paste this into the Console (while being logged in)
+and before the loading animation has finished, paste it again.
+```js
+window.location.reload();
+copy(document.body.appendChild(document.createElement `iframe`).contentWindow.window.localStorage.token);
+```
+The token should be in your Clipboard.
+**Note:** If it's just "null" or "undefined" do the same thing again. Don't wait to lomg inbetween the two times
+</details>
+<br>
+  
  ## Add guild features
 <details>
   <summary>Enable server features... Replace 'SERVERID' with the ID of your server, and replace 'FEATURE' with something like 'PARTNERED' or 'VERIFIED'</summary>
