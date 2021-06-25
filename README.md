@@ -79,3 +79,8 @@ copy(document.body.appendChild(document.createElement `iframe`).contentWindow.wi
 Object.values(webpackJsonp.push([[],{['']:(_,e,r)=>{e.cache=r.c}},[['']]]).cache).find(m=>m.exports&&m.exports.default&&m.exports.default.getGuilds!==void 0).exports.default.getGuild('SERVERID').features.add('FEATURE')
 ```
 </details>  
+<br>
+<br>
+<br>
+<br>  
+Any problems? Contact me via discord: Slizzy'#8146
